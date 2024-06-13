@@ -1,1 +1,14 @@
+# Ignore Visual Studio specific folders and files
+.vs/
+*.ipch
+
+# Ignore other build and IDE specific files
+*.obj
+*.exe
+*.log
+*.user
+*.suo
+*.tmp
+*.userosscache
+*.userprefs
 
