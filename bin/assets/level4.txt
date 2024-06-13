@@ -1,0 +1,25 @@
+###############################################
+#   n                                    G    #
+#   PP  l      e    l                   PPP   #
+#       PPPPPPPPPPPPP   PPPPP    PPPPP        #
+#  n                                   PPP    #
+#  PP  l  e               e      l PPP        #
+#      PPPWPPWWWPPPPPPPPPWWWPPPPPP            #
+#                                  P          #
+#                                     PPPPP   #
+#  n                              PP          #
+#  PP l e   l            PPPPPPPP             #
+#     PPPPPPP    PPPPPP                       #
+#                         PPPPP               #
+#                               P         n   #
+#                      l      e l  PPPP   P   #
+#                      PPPPPPPPPP             #
+#  n   PPPPP     PPPP                         #
+#  PP                                         #
+#     PPPP          l e  l                    #
+#           PPPP    PPPPPP    PPP   PP        #
+#                                      PPP    #
+#                                          P  #
+#n  l     e              e              e  l P#
+#PWWWWPPPWWWWPPPPPPPPWWWPPPPPPWWWPPPPPPPPPPP  #
+###############################################
